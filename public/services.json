@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Hair Styling Services",
+    "img": "https://images.pexels.com/photos/973401/pexels-photo-973401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Unleash your inner diva with our top-of-the-line hair styling services. Whether you're looking for a new haircut, color, or style, our expert stylists are here to help you achieve your perfect look. From classic cuts to the latest trends, we have something for everyone.",
+    "price": 50
+  },
+  {
+    "id": 2,
+    "title": "Massage Services",
+    "img": "https://images.pexels.com/photos/3757952/pexels-photo-3757952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Escape the stresses of everyday life with our premium massage services. Our skilled therapists will help you relax, rejuvenate, and unwind with an array of techniques, including Swedish, deep tissue, and hot stone massage.",
+    "price": 70
+  },
+  {
+    "id": 3,
+    "title": "Facial Services",
+    "img": "https://images.pexels.com/photos/3985338/pexels-photo-3985338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Revitalize your skin with our luxurious facial services. Our experienced estheticians will customize a treatment plan to suit your specific needs, whether you're looking to combat acne, reduce wrinkles, or simply give your skin a healthy glow.",
+    "price": 80
+  },
+  {
+    "id": 4,
+    "title": "Spa Services",
+    "img": "https://images.pexels.com/photos/6724402/pexels-photo-6724402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Indulge in a little luxury with our spa services. Our expert therapists will pamper you from head to toe with an array of treatments, including manicures, pedicures, and waxing services.",
+    "price": 30
+  },
+  {
+    "id": 5,
+    "title": "Nail Services",
+    "img": "https://images.pexels.com/photos/332046/pexels-photo-332046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Get polished and pampered with our top-notch nail services. Whether you're looking for a classic manicure or a trendy pedicure, our team of skilled technicians will provide you with the best service. Enjoy a wide range of colors and styles to choose from, including gel and acrylic options.",
+    "price": 40
+  },
+  {
+    "id": 6,
+    "title": "Makeup Services",
+    "img": "https://images.pexels.com/photos/4620843/pexels-photo-4620843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Look your best for any occasion with our professional makeup services. From natural and minimalistic to bold and dramatic, our team of experienced makeup artists will create the perfect look for you. Whether you're preparing for a special event or just want to look and feel your best, we've got you covered.",
+    "price": 70
+  },
+  {
+    "id": 7,
+    "title": "Bridal Services",
+    "img": "https://images.pexels.com/photos/12730873/pexels-photo-12730873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Make your big day even more special with our bridal services. Our team of experts will work with you to create the perfect look for your wedding day, whether you're looking for a classic and elegant hairstyle or a modern and trendy makeup look. Let us help you look and feel your best on the most important day of your life.",
+    "price": 200
+  },
+  {
+    "id": 8,
+    "title": "Men's Services",
+    "img": "https://images.pexels.com/photos/4625625/pexels-photo-4625625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Don't be left out, we also cater for men. Our team of expert stylists and therapists are here to help men look and feel their best. From haircuts and shaving services to massages and facials, we have something for every man. We offer a wide range of services that will leave you feeling refreshed and rejuvenated.",
+    "price": 40
+  },
+  {
+    "id": 9,
+    "title": "Special Services",
+    "img": "https://images.pexels.com/photos/8468125/pexels-photo-8468125.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "We also offer special services like hair extensions, hair treatments, makeup lessons, and more. Let our experts help you achieve the look you've always wanted. We have a wide range of services to suit your needs and budget. Whether you're looking to add volume or length to your hair, restore damaged hair, or learn the latest makeup techniques, we've got you covered.",
+    "price": 100
+  }
+]

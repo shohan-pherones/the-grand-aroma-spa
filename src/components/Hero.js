@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="hero-overlay bg-opacity-60"></div>
       <div className="hero-content text-center text-neutral-content">
         <div className="max-w-4xl">
-          <h1 className="mb-5 text-8xl font-bold font-serif">
+          <h1 className="mb-5 text-6xl lg:text-8xl font-bold font-serif">
             Unleash your inner goddess with The Grand Aroma
           </h1>
           <p className="mb-5">
