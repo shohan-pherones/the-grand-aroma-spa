@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "designation": "Lead Stylist",
+    "img": "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "speciality": "Specializes in modern haircuts and colors, as well as bridal hairstyling."
+  },
+  {
+    "id": 2,
+    "name": "Rachel Lee",
+    "designation": "Senior Therapist",
+    "img": "https://images.pexels.com/photos/2036646/pexels-photo-2036646.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "speciality": "Specializes in deep tissue and hot stone massages, as well as body treatments."
+  },
+  {
+    "id": 3,
+    "name": "Emily Davis",
+    "designation": "Master Esthetician",
+    "img": "https://images.pexels.com/photos/2975617/pexels-photo-2975617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "speciality": "Specializes in anti-aging facials and acne treatments."
+  },
+  {
+    "id": 4,
+    "name": "Lauren Smith",
+    "designation": "Nail Technician",
+    "img": "https://images.pexels.com/photos/1006202/pexels-photo-1006202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "speciality": "Specializes in gel and acrylic nails, as well as pedicures."
+  },
+  {
+    "id": 5,
+    "name": "Samantha Brown",
+    "designation": "Makeup Artist",
+    "img": "https://images.pexels.com/photos/539727/pexels-photo-539727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "speciality": "Specializes in bridal and special occasion makeup, as well as makeup lessons."
+  },
+  {
+    "id": 6,
+    "name": "Natalie Rodriguez",
+    "designation": "Senior Stylist",
+    "img": "https://images.pexels.com/photos/834872/pexels-photo-834872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "speciality": "Specializes in hair extensions and color corrections."
+  }
+]
