@@ -3,7 +3,7 @@ import { useFetch } from "../hooks/useFetch";
 import Service from "./Service";
 
 const Services = () => {
-  const { data: services, loading, error } = useFetch("services.json");
+  const { data: services } = useFetch("services.json");
 
   return (
     <div className="services container mx-auto py-20" id="services">
