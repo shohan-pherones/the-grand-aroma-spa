@@ -8,7 +8,7 @@ const About = () => {
   return (
     <section className="about container mx-auto py-20" id="about">
       <SectionTitle title="About Us" />
-      <p className="mb-10">
+      <p className="mb-10 text-center px-5 sm:px-10 md:px-20 lg:px-32 xl:px-40">
         Welcome to The Grand Aroma, a premier beauty salon and spa where luxury
         and pampering meet. Our team of expert stylists and therapists are
         dedicated to making you look and feel your best, with an array of
