@@ -40,7 +40,7 @@ const data = [
 
 const Gallery = () => {
   return (
-    <div className="py-20 bg-primary-content text-yellow-600">
+    <section className="py-20 bg-primary-content text-yellow-600" id="gallery">
       <SectionTitle title="Artistry on Display" />
       <p className="container mx-auto mb-10 text-center px-5 sm:px-10 md:px-20 lg:px-32 xl:px-40">
         Our gallery is a showcase of the exceptional work our team of expert
@@ -64,7 +64,7 @@ const Gallery = () => {
           </div>
         ))}
       </div>
-    </div>
+    </section>
   );
 };
 

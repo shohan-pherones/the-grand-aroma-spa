@@ -26,8 +26,8 @@ const Navbar = () => {
           </HashLink>
         </li>
         <li>
-          <HashLink smooth to="#reviews">
-            Reviews
+          <HashLink smooth to="#testimonials">
+            Testimonials
           </HashLink>
         </li>
         <li>

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Kelly",
+    "img": "https://randomuser.me/api/portraits/women/26.jpg",
+    "designation": "Business Owner",
+    "body": "I had the most amazing experience at The Grand Aroma. The staff is incredibly friendly and professional, and my haircut and color turned out better than I could have imagined. I highly recommend this salon to anyone looking for top-notch service and beautiful results. Thank you, team The Grand Aroma!"
+  },
+  {
+    "id": 2,
+    "name": "Jane Davis",
+    "img": "https://randomuser.me/api/portraits/women/24.jpg",
+    "designation": "Homemaker",
+    "body": "I have been coming to The Grand Aroma for years and I am always impressed with the quality of service. The massage therapists are highly skilled and always leave me feeling rejuvenated and relaxed. I highly recommend the spa services at The Grand Aroma."
+  },
+  {
+    "id": 3,
+    "name": "Emily Williams",
+    "img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "designation": "Bride",
+    "body": "I had my makeup done for my wedding at The Grand Aroma and it was absolutely perfect. The artist listened to my vision and brought it to life flawlessly. I received so many compliments on my makeup and I couldn't be happier with the results. Thank you, The Grand Aroma team!"
+  },
+  {
+    "id": 4,
+    "name": "Rachel Casey",
+    "img": "https://randomuser.me/api/portraits/women/40.jpg",
+    "designation": "Student",
+    "body": "I was in desperate need of a nail makeover and The Grand Aroma delivered! The nail technician was so talented and patient, and my nails look beautiful. I will definitely be back for more services in the future."
+  },
+  {
+    "id": 5,
+    "name": "Nicole Brown",
+    "img": "https://randomuser.me/api/portraits/women/82.jpg",
+    "designation": "Sales Representative",
+    "body": "I was so impressed with the level of service I received at The Grand Aroma. My hair stylist was attentive and took the time to understand exactly what I wanted. The end result was exactly what I had in mind and I couldn't be happier. I highly recommend The Grand Aroma to anyone looking for a great hair salon."
+  }
+]
