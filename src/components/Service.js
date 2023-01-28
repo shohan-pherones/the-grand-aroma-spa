@@ -7,7 +7,7 @@ const Service = ({ service }) => {
         <img src={service.img} alt={service.title} />
       </figure>
       <div className="card-body">
-        <h2 className="card-title">{service.title}</h2>
+        <h2 className="card-title text-2xl">{service.title}</h2>
         <p>{service.description}</p>
         <div className="card-actions justify-end items-center">
           <p className="font-medium text-lg">

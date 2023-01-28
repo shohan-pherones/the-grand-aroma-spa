@@ -5,7 +5,7 @@ const Artist = ({ artist }) => {
         <img src={artist.img} alt={artist.name} className="rounded-xl" />
       </figure>
       <div className="card-body items-center text-center">
-        <h2 className="card-title">{artist.name}</h2>
+        <h2 className="card-title text-2xl">{artist.name}</h2>
         <span className="text-secondary-focus">{artist.designation}</span>
         <p>{artist.speciality}</p>
       </div>

@@ -6,7 +6,7 @@ import NotFound from "./pages/NotFound";
 
 const App = () => {
   return (
-    <div className="wrapper">
+    <div className="wrapper text-lg">
       <div className="app min-h-screen">
         <Navbar />
         <Routes>
