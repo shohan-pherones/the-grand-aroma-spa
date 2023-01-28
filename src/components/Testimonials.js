@@ -1,6 +1,10 @@
 import SectionTitle from "./SectionTitle";
+import TestimonialSlider from "./TestimonialSlider";
+import { useFetch } from "../hooks/useFetch";
 
 const Testimonials = () => {
+  const { data: reviews, error, isLoading } = useFetch("reviews.json");
+
   return (
     <section className="testimonials container mx-auto py-20" id="testimonials">
       <SectionTitle title="Testimonials" />
@@ -15,6 +19,10 @@ const Testimonials = () => {
         yourself why The Grand Aroma is the premier destination for all your
         beauty needs.
       </p>
+
+      {isLoading && <span className="flex justify-center">Loading...</span>}
+      {error && <p className="text-center">{error}</p>}
+      {reviews && <TestimonialSlider reviews={reviews} />}
     </section>
   );
 };
